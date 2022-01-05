@@ -117,10 +117,10 @@ const educationInfo = {
   display: true, // Set false to hide this section, defaults to true
   schools: [
     {
-      schoolName: "Harvard University",
-      logo: require("./assets/images/harvardLogo.png"),
-      subHeader: "Master of Science in Computer Science",
-      duration: "September 2017 - April 2019",
+      schoolName: "University of Central Punjab",
+      logo: require("https://www.pinclipart.com/picdir/middle/255-2551723_handcuffs-clipart.png"),
+      subHeader: "Bachelor of Science in Computer Science",
+      duration: "February 2016 - February 2020",
       desc: "Participated in the research of XXX and published 3 papers.",
       descBullets: [
         "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
@@ -128,10 +128,10 @@ const educationInfo = {
       ]
     },
     {
-      schoolName: "Stanford University",
+      schoolName: "Kips College",
       logo: require("./assets/images/stanfordLogo.png"),
-      subHeader: "Bachelor of Science in Computer Science",
-      duration: "September 2013 - April 2017",
+      subHeader: "Fsc Pre Engineering",
+      duration: "September 2013 - September 2015",
       desc: "Ranked top 10% in the program. Took courses about Software Engineering, Web Security, Operating Systems, ...",
       descBullets: ["Lorem ipsum dolor sit amet, consectetur adipiscing elit"]
     }
