@@ -118,7 +118,7 @@ const educationInfo = {
   schools: [
     {
       schoolName: "University of Central Punjab",
-      logo: require("https://www.pinclipart.com/picdir/middle/255-2551723_handcuffs-clipart.png"),
+      logo: require("./assets/images/ucpLogo.png"),
       subHeader: "Bachelor of Science in Computer Science",
       duration: "February 2016 - February 2020",
       desc: "Participated in the research of XXX and published 3 papers.",
