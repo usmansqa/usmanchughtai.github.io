@@ -277,7 +277,8 @@ const achievementSection = {
           url: "https://analytics.google.com/analytics/academy/certificate/g9kaNv_CSTqvq_YDRv19xA"
         }
       ]
-  ]
+    }
+  ],
   display: true // Set false to hide this section, defaults to true
 };
 
